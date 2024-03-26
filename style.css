@@ -1,0 +1,33 @@
+
+body{
+    background-color: #211919;
+    color: white;
+}
+.guesshold{
+    padding: 5px;
+    border: solid 2px #6b2f2f;
+    border-radius: 5px;
+}
+#sub{
+    padding: 5px;
+    border: solid 2px #6b2f2f;
+    border-radius: 5px;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+
+}
+.form{
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    gap: 20px;
+}
